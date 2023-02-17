@@ -20,6 +20,6 @@ The results for 1000 epochs are shown in the below image. Adam optimization has 
 
 4. The output should look like the following:
 
-<img src="../images/output1.png" width="600" height="600" />
+<img src="output1.png" width="600" height="600" />
 
-<img src="../images/output2.png" width="600" height="600" />
+<img src="output2.png" width="600" height="600" />
